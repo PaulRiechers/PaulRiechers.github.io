@@ -1,0 +1,168 @@
+{
+  "settings": {
+    "currentPage": "Home",
+    "name": "http://www.nevadacelebraterecovery.org",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 12,
+    "versionPublish": "3.12.1",
+    "path": "file:///C:/Users/tackl/Documents",
+    "screenshot": "screenshot.png",
+    "publishFtpPath": "public_html",
+    "publishType": "github",
+    "publishPath": "@PROJECT_PATH@",
+    "favicon": "",
+    "noImageResize": "",
+    "ftpLocation": "ftp://paulriechers@nevadacelebraterecovery.org@ftp.nevadacelebraterecovery.org:2078",
+    "gitHubName": "PaulRiechers",
+    "gitHubPath": ""
+  },
+  "pages": {
+    "Home": {
+      "settings": {
+        "main": true,
+        "title": "CR Home Page",
+        "meta_descr": "Jesus, recovery, healing, hope, hurts, habits, hang-ups, addiction, sex, anger, control, balance, food",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-7",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Hurts? Habits? Hang-ups?",
+          "text": "We all have them. They're the things that cause us to feel guilty, ashamed, angry, out of control, afraid, anxious, depressed, and on and on. We think at times that no one understands, or that no one cares. The universal truth is that there is One who cares very much, and that One is Jesus Christ. Millions of people have found hope, healing, and purpose through Christ in Celebrate recovery.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">What is Celebrate Recovery?</a>  "
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "What is Celebrate Recovery?",
+        "meta_descr": "Site Generator Description",
+        "order": 2
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px"
+            }
+          },
+          "_anchor": "header1-a",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "What is Celebrate Recovery?",
+          "text": "Celebrate Recovery is a Christ-centered 12-step recovery program based on the Beatitudes, from Jesus' Sermon on the Mount (Matthew 5:3-10). Our program is based on the actual words of Jesus, rather than psychological theory. Our recovery program is best illustrated in our Road to Recovery.<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">The Twelve Steps</a> "
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "12 Steps",
+        "meta_descr": "Site Generator Description",
+        "order": 3
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px"
+            }
+          },
+          "_anchor": "header1-b",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/horizon-distress-widescreen-2000x1125.jpg",
+            "bgColor": "#73785b",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "The 12 Steps and Their Biblical Comparisons<br><br>",
+          "text": "<b style=\"font-style: normal;\">1. We admitted we were powerless over our addictions and compulsive behaviors, that our lives had become unmanageable.</b><br>\"For I know that good itself does not dwell in me, that is, in my sinful nature. For I have the desire to do what is good, but I cannot carry it out\"<br>(Romans 7:18)<br><br><b style=\"font-style: normal;\">2. We came to believe that a power greater than ourselves could restore us to sanity.</b><br>\"For it is God who works in you to will and to act in order to fulfill his good purpose.\"<br>(Phillipians 2:13)<br><br><span style=\"font-style: normal;\"><b>3. We made a decision to turn our lives over to the care of God.</b></span><br>\"Therefore, I urge you, brothers and sisters, in view of God's mercy, to offer your bodies as a living sacrifice, holy and pleasing to God-this is your spiritual act of worship.\"<br>(Romans 12:1)<br><br><span style=\"font-style: normal;\"><b>4. We made a searching and fearless moral inventory of ourselves.</b></span><br>\"Let us examine our ways and test them, and let us return to the LORD.\"<br>Lamentations 3:40<br><br><span style=\"font-style: normal;\"><b>5. We admitted to God, to ourselves, and to another human being the exact nature of our wrongs.</b></span><br>\"Therefore confess your sins to each other and pray for each other so that you may be healed.\"<br>(James 5:16)<br><br><span style=\"font-style: normal;\"><b>6. We were entirely ready to have God remove all these defects of character.</b></span><br>\"Humble yourselves before the Lord, and he will lift you up.\"<br>(James 4:10)<br><br><span style=\"font-style: normal;\"><b>7. We humbly asked Him to remove all our shortcomings.</b></span><br>\"If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness.\"<br>(1 John 1:9)<br><br><span style=\"font-style: normal;\"><b>8. We made a list of all persons we had harmed and became willing to make amends to them all.<br></b></span>\"Do to others as you would have them do to you.\"<br>(Luke 6:31)<br><br><span style=\"font-style: normal;\"><b>9. We made direct amends to such people whenever possible, except when to do so would injure them or others.</b></span><br>\"Therefore, if you are offering your gift at the altar and there remember that your brother or sister has something against you, leave your gift there in front of the altar. First go and be reconciled to them; then come and offer your gift.\"<br>(Matthew 5:23-24)<br><br><span style=\"font-style: normal;\"><b>10. We continued to take personal inventory and when we were wrong, promptly admitted it.</b></span><br>\"So, if you think you are standing firm, be careful that you don't fall!\"<br>(1 Corinthians 10:12)<br><br><span style=\"font-style: normal;\"><b>11. We sought through prayer and meditation to improve our conscious contact with God, praying only for knowledge of His will for us and the power to carry that out.</b></span><br>\"Let the message of Christ dwell among you richly.\"<br>(Colossians 3:16)<br><br><span style=\"font-style: normal;\"><b>12. Having had a spiritual experience as a result of these steps, we try to carry this message to others and to practice these principles in all our affairs.</b></span><br>\"Brothers and sisters, if someone is caught in a sin, you who live by the Spirit should restore that person gently. But watch yourselves, or you also may be tempted.\"<br>(Galatians 6:1)<br><br><br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">The Eight Principles</a> "
+        }
+      ]
+    }
+  }
+}
